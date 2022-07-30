@@ -12,7 +12,7 @@ I’m interested in the software engineer position in Facebook because I would l
 > SKILLS
 ## FRONTEND
  #### Language
-- [x] HTML/CSS/JS       
+- [x] HTML/CSS/JS/JSX      
 
  #### Library
 - [x] REACTJS 
