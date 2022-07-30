@@ -10,11 +10,15 @@ I’m interested in the software engineer position in Facebook because I would l
 
 
 > SKILLS
+## FRONTEND
  #### Language
-- [x] HTML/CSS/JS  
-- [x] PHP/C#/JAVA/MYSQL       
+- [x] HTML/CSS/JS       
 
  #### Library
 - [x] REACTJS 
 - [x] SASS 
 - [x] JQUERY 
+
+## BACKEND
+ #### Language
+- [x] PHP/C#/JAVA/MYSQL  
